@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning python and sql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: tinii
-- ⚡ Fun fact: ...
+- 😄
+- ..
 
 <!---
 Nitig01/Nitig01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
